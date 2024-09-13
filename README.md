@@ -32,7 +32,7 @@ git clone https://github.com/Yumna0019/Weather_app.git
 2. Navigate to the project directory:
 
 ```bash
-cd Weather_app
+cd Weather_App
 ```
 
 3. Install dependencies:
