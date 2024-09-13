@@ -5,7 +5,7 @@ A simple and sleek weather application built with React that allows users to get
 
 ## Live Demo
 
-Check out the live version of the app [here](https://weather-app-react-demo.netlify.app/).
+Check out the live version of the app [here](https://weather-app-reactjs-y.netlify.app/).
 
 ## Features
 
